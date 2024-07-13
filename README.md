@@ -1,7 +1,3 @@
-Sure! Here's a README template for your portfolio website repository using HTML, CSS, and JavaScript:
-
----
-
 # 🌐 Portfolio Website
 
 Welcome to my **Portfolio Website** repository! This project showcases my skills, projects, and experience using HTML, CSS, and JavaScript in a visually appealing and professional manner.
