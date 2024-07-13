@@ -30,7 +30,7 @@ This Portfolio Website serves as a digital resume, highlighting my expertise, pr
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/atharvguitarist/portfolio-website.git
     cd portfolio-website
     ```
 
